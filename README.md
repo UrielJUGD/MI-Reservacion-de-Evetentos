@@ -1,2 +1,2 @@
-# MI-Reservacion-de-Evetentos
+# MI-Reservacion-de-Eventos
 Archivos de MI Reservacion de Eventos
